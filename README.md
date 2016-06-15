@@ -17,7 +17,7 @@ This course will cover the basics of deep learning by using a hands-on approach.
 <li> Advanced Applications: Neural art, colorization, sentiment analysis.
 <li> Summary of the course and closing.
 
-## Docker Installation
+## Course Software Installation
 
 There’s full documentation on installing Docker at docker.com, but in a few words, the steps are:
 
@@ -30,9 +30,6 @@ There’s full documentation on installing Docker at docker.com, but in a few wo
 + At the end of the script, you will see ASCII art of a whale and your are left at a prompt.
 + Run this command in the terminal: ``docker run hello-world``
 + This will give you output confirming your installation of docker has worked: ``Hello from Docker``
-
-## Course Software Installation
-
 + In the docker terminal, run (This operation requires a good internet connection to download ~2.5Gb; it will take some minutes):  ``docker pull deepub/deepub``    
 + Run the DeepUB image on your system: ``docker run -p 8888:8888 deepub/deepub``
 + Once these steps have been done, you can check the installation by starting your web browser and introducing this  URL: ``http://yourvirtualmachineIP:8888`` to access to the fully operational Jupyter notebook of this course. (Note: the address of your virtual machine (``yourvirtualmachineIP``) is printed at the end of the Docker booting process, just after the ASCII whale).
