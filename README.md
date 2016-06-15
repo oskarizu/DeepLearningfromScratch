@@ -7,21 +7,20 @@ This course will cover the basics of deep learning by using a hands-on approach.
 
 ## Course Agenda
 
-<li> Introduction to Deep Learning and its applications. Using the Jupyter notebook 
-<li> Basic Concepts: Score & Loss functions, Optimization (SGD), Linear Regression
-<li> Automated differentiation, Backpropagation, Training a Neural Netwotk from Scratch
-<li> Tensorflow programming model. Scikit Flow.
-<li> Convolutions. CNN models for times series, images and text
-<li> Recurrent Neural Netwoks for text and images
-<li> Unsupervised Learning
-<li> Advanced Applications: Neural art, colorization, sentiment analysis.
-<li> Summary of the course and closing.
+<li> Introduction to Deep Learning and its applications. Using the Jupyter notebook & Docker.
+<li> Basic Concepts: Score & Loss functions, Optimization (SGD), Linear Regression.
+<li> Automated differentiation, Backpropagation, Training a Neural Netwotk from Scratch.
+<li> Tensorflow programming model. 
+<li> Convolutions & CNN models.
+<li> Recurrent Neural Netwoks.
+<li> Unsupervised Learning.
+<li> Advanced Applications: Neural art, colorization, music generation.
 
 ## Course Software Installation
 
-There’s full documentation on installing Docker at docker.com, but in a few words, the steps are:
+There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
 
-+ Go to docs.docker.com/ in your browser.
++ Go to ``docs.docker.com`` in your browser.
 + Step one of the instructions sends you to download the Docker Toolbox.
 + On the Toolbox page, click on the Mac/Windows download button.
 + Run that downloaded file to install the Toolbox.
